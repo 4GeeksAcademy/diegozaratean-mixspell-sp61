@@ -1,0 +1,4 @@
+Mi nombre es Daniel del Castillo Romero
+Soy un estudiante del curso de full stack realizado por 4Geeks
+La tecnología que más me ha gustado aprender por mi cuenta es: Python
+Y la tecnología que más me ha gustado aprender en clase es: Bootstrap
